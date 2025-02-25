@@ -10,6 +10,16 @@
 - **Topic Recommendations:** Receive similar questions and topics based on your search query to help you explore related areas of interest.
 - **User-friendly Interface:** Built with Next.js, TypeScript, and Tailwind CSS for a fast and responsive UI.
 
+![Image](https://github.com/user-attachments/assets/530772ab-bec1-4055-8e28-043d7f91dc95)
+
+![Image](https://github.com/user-attachments/assets/1ea99665-ec65-4acc-b9c0-b8a9ab8d1d4d)
+
+![Image](https://github.com/user-attachments/assets/ec4488bd-40d9-49eb-8328-fd55764a26d6)
+
+![Image](https://github.com/user-attachments/assets/1401ab96-50d4-49fe-bb4a-c03453d47e6b)
+
+![Image](https://github.com/user-attachments/assets/1249edf0-5aac-410f-aec9-4ef0abc738e9)
+
 ## Tech Stack
 
 - **Frontend:**  
